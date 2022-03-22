@@ -1,25 +1,26 @@
-git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/alx-pre_course.git
-
-cd alx-pre_course/
-
-echo 'My first readme' > README.md
-
-cat README.md
-
-git config --global user.email "you@example.com"
-
-git config --global user.name "Your Name"
-
-git add .
-
-git commit -m 'My first commit'
-
+git pull
+echo “git pull”> up_to_date
+git add
+git commit -m “How to be up to date in git”
 git push
 
-echo "ALX School"
 
-echo "The school is open!"
 
-git branch "branch name"
 
-touch "file name"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
